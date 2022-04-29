@@ -1,0 +1,13 @@
+{
+      "Action": 2,
+      "Crime": 4,
+      "Drama": 8,
+      "Thriller": 2,
+      "Adventure": 1,
+      "Comedy": 4,
+      "Mystery": 2,
+      "Romance": 1,
+      "Horror": 1,
+      "Music": 1,
+      "History": 1
+}
